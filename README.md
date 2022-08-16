@@ -1,2 +1,2 @@
-# bing_search
+# Bing Search
 Bing Custom Search
